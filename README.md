@@ -29,6 +29,29 @@ We are developing an intersection traffic visualization web app to discover patt
 
 ![Visualization](gif/rush.gif)
 
+<a id='works'></a>
+## Algorithmic Steps
+
+![Algorithm steps](gif/steps.gif)
+
+### Step 1: People/Vehicles/Bikes Detection
+
+![Step 1](images/step1.JPG)
+
+### Step 2: Publish/Subscribe to MQTT
+
+![Step 2](images/step2.JPG)
+
+### Step 3: Steaming Video
+
+![Step 3](images/step3.JPG)
+
+Refer to the [Code](#code) for more details.
+
+<hr/> 
+
+[Back to Table of Content](#index)
+
 
 Running the App
 This program is excuted in Udacity workspace.
