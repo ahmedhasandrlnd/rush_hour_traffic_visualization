@@ -226,6 +226,6 @@ def draw_boxes(frame, result,args, width, height):
 <a id='future'></a>
 ## Future Works
 
-![future works](images/future.JPG)
+![future works](gif/future.JPG)
 
 ![Pedestrian Crossing](gif/cross.gif)
