@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Project Overview](#overview)
 - [Algorithmic Steps](#works)
-- [Usage](#usage)
+- [Running the App](#usage)
 - [Code](#code)
 - [References](#ref)
 
@@ -52,17 +52,15 @@ Refer to the [Code](#code) for more details.
 
 [Back to Table of Content](#index)
 
-
-Running the App
+<a id='usage'></a>
+## Running the App
 This program is excuted in Udacity workspace.
 First, get the MQTT broker and UI installed.
 
-```
-cd webservice/server
-npm install
-```
-When complete, ```cd ../ui```
-And again, ```npm install```
+* ```cd webservice/server```
+* ```npm install```
+* When complete, ```cd ../ui```
+* And again, ```npm install```
 
 Then install react-plotly.js and plotly.js for time series visualization
 ```
