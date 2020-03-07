@@ -1,4 +1,32 @@
-# Rush Hour Traffic Visualization
+# Intersection Traffic Visualization
+
+<a id='index'></a>
+## Table of Contents
+- [Project Overview](#overview)
+- [Algorithmic Steps](#works)
+- [Usage](#usage)
+- [Code](#code)
+- [References](#ref)
+
+
+**_[Presentation](https://docs.google.com/presentation/d/1hhzI61B8x2jal5sdpufMWn0dHWDbvqb9n44FG8UvOgw/edit?usp=sharing)_**
+
+![Presentation](gif/presentation.gif)
+<hr/> 
+
+[Back to Table of Content](#index)
+
+<a id='overview'></a>
+## Project Overview
+**Problem Statement:**
+Traffic visualization in a busy intersection is critical to ensure convenient transportation of vehicles and safety for people.
+**Our Solution:**
+We are developing an intersection traffic visualization web app to discover patterns of traffic flows and manage the rush-hour traffic.
+<a id='video'></a>
+**_Deployed App_**
+
+![Visualization](gif/rush.gif)
+
 
 Running the App
 This program is excuted in Udacity workspace.
@@ -40,7 +68,7 @@ source /opt/intel/openvino/bin/setupvars.sh -pyver 3.5
 ```
 To run the app, I'll give you two items to pipe in with ffmpeg here, with the rest up to you:
 ```
-python app.py | ffmpeg -v warning -f rawvideo -pixel_format bgr24 -video_size 1280x720 -framerate 24 -i - http://0.0.0.0:3004/fac.ffm
+python app.py -cv 0.6 -cp 0.2 -cb 0.1  | ffmpeg -v warning -f rawvideo -pixel_format bgr24 -video_size 1280x720 -framerate 24 -i - http://0.0.0.0:3004/fac.ffm
 ```
 Your app should begin running, and you should also see the MQTT broker server noting information getting published.
 
