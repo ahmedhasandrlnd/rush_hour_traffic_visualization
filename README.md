@@ -27,24 +27,24 @@ We are developing an intersection traffic visualization web app to discover patt
 <a id='video'></a>
 **_Deployed App_**
 
-![Visualization](gif/rush.gif)
+![Visualization](gif/rush3.gif)
 
 <a id='works'></a>
 ## Algorithmic Steps
 
-![Algorithm steps](gif/steps.gif)
+![Algorithm steps](gif/steps.JPG)
 
 ### Step 1: People/Vehicles/Bikes Detection
 
-![Step 1](images/step1.JPG)
+![Step 1](gif/step1.JPG)
 
 ### Step 2: Publish/Subscribe to MQTT
 
-![Step 2](images/step2.JPG)
+![Step 2](gif/step2.JPG)
 
 ### Step 3: Steaming Video
 
-![Step 3](images/step3.JPG)
+![Step 3](gif/step3.JPG)
 
 Refer to the [Code](#code) for more details.
 
