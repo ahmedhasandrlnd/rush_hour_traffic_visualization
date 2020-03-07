@@ -6,6 +6,7 @@
 - [Algorithmic Steps](#works)
 - [Running the App](#usage)
 - [Code](#code)
+- [Future Works](#future)
 - [References](#ref)
 
 
@@ -218,3 +219,13 @@ def draw_boxes(frame, result,args, width, height):
   </div>    
 ```
 
+<hr/>
+
+[Back to Table of Content](#index)
+
+<a id='future'></a>
+## Future Works
+
+![future works](images/future.JPG)
+
+![Pedestrian Crossing](gif/cross.gif)
