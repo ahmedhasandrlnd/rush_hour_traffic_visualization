@@ -20,7 +20,7 @@
 <a id='overview'></a>
 ## Project Overview
 **Problem Statement:**
-Traffic visualization in a busy intersection is critical to ensure convenient transportation of vehicles and safety for people.
+Traffic visualization in a busy intersection is critical to ensure convenient movement of vehicles and safety for people.
 
 **Our Solution:**
 We are developing an traffic intersection visualization web app to discover patterns of traffic flows and manage the rush-hour traffic.
