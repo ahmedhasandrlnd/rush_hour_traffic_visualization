@@ -228,4 +228,13 @@ def draw_boxes(frame, result,args, width, height):
 
 ![future works](gif/future.JPG)
 
+### Pedestrian Crossing System 
 ![Pedestrian Crossing](gif/cross.gif)
+
+<a id='ref'></a>
+## References
+1. [Presentation](https://docs.google.com/presentation/d/1hhzI61B8x2jal5sdpufMWn0dHWDbvqb9n44FG8UvOgw/edit?usp=sharing)
+
+<hr/> 
+
+[Back to Table of Content](#index)
