@@ -23,7 +23,7 @@
 Traffic visualization in a busy intersection is critical to ensure convenient movement of vehicles and safety for people.
 
 **Our Solution:**
-Leveraging OpenVINO, MQTT, FFMpeg and Node Server, We have developed an traffic intersection visualization web app to discover patterns of traffic flows and manage the rush-hour traffic.
+Leveraging OpenVINO, MQTT, FFMpeg and Node Server, we have developed an traffic intersection visualization web app to discover patterns of traffic flows and manage the rush-hour traffic.
 
 <a id='video'></a>
 **_Deployed App_**
